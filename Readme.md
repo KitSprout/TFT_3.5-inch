@@ -6,11 +6,12 @@
 
 Description
 ========
-TFT_3.5-inch 是一個 3.5 吋的 TFT LCD 模組，透過 8080/6800 介面傳輸資料，上面另外帶有 SD 卡座，使用 SDIO 操作。
+TFT_3.5-inch 是一個 3.5 吋的 TFT LCD 模組，透過 8080/6800 介面傳輸資料，  
+模組上另外帶有 SD 卡座，使用 SDIO 操作。
 
 Hardware
 ========
-* 控制器 : R61581
+* 控制器 : [R61581](http://www.rsp.renesas.com/en/index.htm)
 * 解析度 : 480*320
 * 其他外接 : SD ( SDIO )
 * PCB 尺寸 : 67.8 * 40.3mm
