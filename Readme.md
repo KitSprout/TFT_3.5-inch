@@ -2,7 +2,7 @@
 ========
 * Author  : [Hom](https://github.com/Hom19910422)
 * Version : v1.0
-* Update  : 2014/01/20
+* Update  : 2014/04/26
 
 Description
 ========
@@ -39,3 +39,6 @@ Schematic
 ========
 <img src="https://lh4.googleusercontent.com/-e_tjRiAzuws/UprcWaZkNLI/AAAAAAAAFAA/OypKSmLb3Lw/s1200/3.5_LCD.png" />
 
+Get it
+========
+[露天拍賣 Ruten](http://goods.ruten.com.tw/item/show?21312238046293)  
